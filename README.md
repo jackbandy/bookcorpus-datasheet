@@ -1,15 +1,20 @@
 # BookCorpus Datasheet
 Documentation effort for the BookCorpus dataset
 
+## Summary Data Card
+
+![Summary data card for BookCorpus](BookCorpus_Data_Card_May11_2021.pdf "Summary data card for BookCorpus")
+
+
+
 ## Context
-----
 This [datasheet](https://arxiv.org/abs/1803.09010) is inspired by [Bender and Gebru et al.](https://dl.acm.org/doi/abs/10.1145/3442188.3445922)'s notion of "documentation debt," and our observation that BookCorpus has been used widely but documented sparsely.
 
 We plan to incorporate these findings in the [Hugging Face entry for BookCorpus](https://huggingface.co/datasets/bookcorpus).
 
 
+
 ## The Data
-----
 
 ### BookCorpus dataset
 [BookCorpus](https://huggingface.co/datasets/bookcorpus) is no longer available from the [original authors](https://yknzhu.wixsite.com/mbweb), though we obtained the dataset directly from their website through a security vulnerability which we have since notified them about.
@@ -36,12 +41,15 @@ We collected all books listed on Smashwords as of April 2021. The `data/Smashwor
 * [Homemade BookCorpus](https://github.com/soskek/bookcorpus)
 
 
+
+
 ## The Code
-----
 We include three files used in our analysis:
 * `DataSheet` contains the code we used for most of our analysis
 * `Sentence Analysis` contains the code we used to inspect sentences
 * `WordsAndBooksPerAuthor` contains the code we used to analyze author contributions
 
 
+
+----
 Reach out to [Jack](https://twitter.com/jackbandy) and/or [Nick](https://twitter.com/nickmvincent) with your questions and comments!
