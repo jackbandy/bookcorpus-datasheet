@@ -51,4 +51,4 @@ We include three files used in our analysis:
 
 
 ----
-Reach out to [Jack](https://twitter.com/jackbandy) and/or [Nick](https://twitter.com/nickmvincent) with your questions and comments!
+💬 Head to the [discussion](https://github.com/jackbandy/bookcorpus-datasheet/discussions/1) with any questions or comments, or reach out directly to [Jack](https://twitter.com/jackbandy) and/or [Nick](https://twitter.com/nickmvincent)!
