@@ -3,7 +3,7 @@ Documentation effort for the BookCorpus dataset
 
 ## Summary Data Card
 
-<img src="BookCorpus_Data_Card_May11_2021.png" alt="Summary data card for BookCorpus" width="400"/>
+<img src="card/BookCorpus_Data_Card_May11_2021.png" alt="Summary data card for BookCorpus" width="400"/>
 
 
 ## Context
