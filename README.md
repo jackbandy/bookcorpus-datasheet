@@ -3,7 +3,7 @@ Documentation effort for the BookCorpus dataset
 
 ## Summary Data Card
 
-![Summary data card for BookCorpus](BookCorpus_Data_Card_May11_2021.pdf "Summary data card for BookCorpus")
+![Summary data card for BookCorpus](BookCorpus_Data_Card_May11_2021.png "Summary data card for BookCorpus")
 
 
 
