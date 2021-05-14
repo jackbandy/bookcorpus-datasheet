@@ -24,7 +24,7 @@ We are not redistributing BookCorpus in full, however we include the following m
 * `books_in_bookcorpus.csv` lists all text files (books) in BookCorpus, as downloaded from the authors' website, including the book's `location`, `category`, `word_count`, and `disk_usage` 
 * `sentences_counted_8+.csv` lists all sentences that occurred eight or more times
 * `count_of_sentence_counts.csv` lists data about the number of `unique_sentences` (including a `random_sentence`) that occurred `n` times
-
+* `stolen_books.md` (pretty) lists books included in the original BookCorpus that now cost money to download from Smashwords.com
 
 ### BookCorpusOpen dataset
 ["BookCorpusOpen"](https://huggingface.co/datasets/bookcorpusopen) is included as "BookCorpus2" in [the Pile](https://arxiv.org/abs/2101.00027). Here are some background [details](https://github.com/soskek/bookcorpus/issues/27) about how BookCorpusOpen (also referred to as OpenBookCorpus, Books1, and BookCorpusNew) was constructed and published. The `data/BookCorpusOpen` folder contains one file:
