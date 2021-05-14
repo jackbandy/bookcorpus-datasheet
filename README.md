@@ -1,5 +1,7 @@
 # BookCorpus Datasheet
-Documentation effort for the BookCorpus dataset
+Documentation effort for the BookCorpus dataset.
+[(Link to arXiv paper)](https://arxiv.org/abs/2105.05241)
+
 
 ## Summary Data Card
 
@@ -49,6 +51,29 @@ We include three files used in our analysis:
 * `WordsAndBooksPerAuthor` contains the code we used to analyze author contributions
 
 
+
+## How to Cite
+To cite the original "datasheets for datasets" paper:
+```
+@inproceedings{gebru2018datasheets,
+  title={Datasheets for datasets},
+  author={Gebru, Timnit and Morgenstern, Jamie and Vecchione, Briana and Vaughan, Jennifer Wortman and Wallach, Hanna and Daum{\'e} III, Hal and Crawford, Kate},
+  booktitle={Proceedings of the 5th Workshop on Fairness, Accountability, and Transparency in Machine Learning},
+  url={https://arxiv.org/abs/1803.09010},
+  year={2018}
+}
+```
+
+To cite our paper (i.e. this BookCorpus datasheet / data card):
+```
+@article{bandy2021addressing,
+      title={Addressing "Documentation Debt" in Machine Learning Research: A Retrospective Datasheet for BookCorpus},
+      author={Bandy, Jack and Vincent, Nicholas},
+      year={2021},
+      journal={arXiv preprint arXiv:2105.05241},
+      url={https://arxiv.org/abs/2105.05241}
+}
+```
 
 ----
 💬 Head to the [discussion](https://github.com/jackbandy/bookcorpus-datasheet/discussions/1) with any questions or comments, or reach out directly to [Jack](https://twitter.com/jackbandy) and/or [Nick](https://twitter.com/nickmvincent)!
