@@ -6,6 +6,7 @@ Documentation effort for the BookCorpus dataset.
 ## Summary Data Card
 
 <img src="card/BookCorpus_Data_Card_May11_2021.png" alt="Summary data card for BookCorpus" width="400"/>
+
 If you like the nutrition label style, [here is an Overleaf Template](https://www.overleaf.com/read/dqwhpqnvftky) you can use to recreate and modify it.
 
 ## Context
