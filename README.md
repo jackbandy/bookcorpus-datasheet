@@ -6,7 +6,7 @@ Documentation effort for the BookCorpus dataset.
 ## Summary Data Card
 
 <img src="card/BookCorpus_Data_Card_May11_2021.png" alt="Summary data card for BookCorpus" width="400"/>
-
+If you like the nutrition label style, [here is an Overleaf Template](https://www.overleaf.com/read/dqwhpqnvftky) you can use to recreate and modify it.
 
 ## Context
 This [datasheet](https://arxiv.org/abs/1803.09010) is inspired by [Bender and Gebru et al.](https://dl.acm.org/doi/abs/10.1145/3442188.3445922)'s notion of "documentation debt," and our observation that BookCorpus has been used widely but documented sparsely.
